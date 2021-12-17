@@ -1,7 +1,7 @@
 {
   "name": "ztm-background-generator",
   "version": "1.0.0",
-  "description": "Dynamic Gradient Generator",
+  "description": "Dynamic Gradient Generator for designers",
   "main": "index.js",
   "repository": "git@github.com:DRSantillan/ztm-background-generator.git",
   "author": "Dean Santillan",
